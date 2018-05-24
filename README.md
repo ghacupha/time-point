@@ -1,4 +1,7 @@
 
+[![Build Status](https://travis-ci.org/ghacupha/time-point.svg?branch=master)](https://travis-ci.org/ghacupha/time-point)
+[![](https://jitpack.io/v/ghacupha/time-point.svg)](https://jitpack.io/#ghacupha/time-point)
+
 # time-point
 
 A thin wrapper for localDate.
