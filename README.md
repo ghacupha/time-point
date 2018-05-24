@@ -138,7 +138,7 @@ You could download this with maven using jitpack repository like so:
 ###### To install from source
 **Requirements**
  - Java 8. Seriously why would you be using version 6 in 2018?
- - Maven version 3.2.5
+ - Maven version 3.2.5 (jitpack won't work with later versions)
  - GIT, obviosly
 
  in your favourite work folder do this:
